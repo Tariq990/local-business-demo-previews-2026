@@ -14,7 +14,7 @@ Independent, clearly labeled website-design concepts for local businesses in the
 - **$50 one-time** design and delivery fee
 - Custom domains, paid hosting, advanced booking/payment integrations, e-commerce, and ongoing maintenance are separate
 
-To enquire: [booktube97@gmail.com](mailto:booktube97@gmail.com?subject=Business%20website%20enquiry).
+To enquire: [send a website request through the live form](https://local-business-websites-50.tariqziad007.workers.dev/?utm_source=github&utm_medium=organic&utm_campaign=website50#inquiry), or email [booktube97@gmail.com](mailto:booktube97@gmail.com?subject=Business%20website%20enquiry).
 
 ## Disclosures and safeguards
 
