@@ -6,7 +6,7 @@ Independent, clearly labeled website-design concepts for local businesses in the
 
 ## Website design offer
 
-**[View the live $50 website-design portfolio](https://local-business-websites-50.tariqziad007.workers.dev/)**
+**[View the live $50 website-design portfolio](https://local-business-websites-50.tariqziad007.workers.dev/?utm_source=github&utm_medium=organic&utm_campaign=website50)**
 
 - Custom, mobile-friendly **one-page** business website
 - Services, location, contact details, and links to existing booking or social profiles
@@ -24,3 +24,5 @@ To enquire: [booktube97@gmail.com](mailto:booktube97@gmail.com?subject=Business%
 - This public repository does **not** contain the private outreach CRM, draft emails, recipient lists, or marketing suppression data.
 
 _Last reviewed: 2026-11-03._
+
+Traffic source attribution is aggregated by date and channel; no individual visitor identities are recorded in page-view analytics.
